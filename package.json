@@ -1,28 +1,27 @@
 {
-  "name": "lws-server-batch-2",
+  "name": "product-review-api.",
   "version": "1.0.0",
   "description": "api server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "NODE_ENV=development nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MehediHasanNabil/lws-server-batch-2.git"
+    "url": "git+https://github.com/MehediHasanNabil/product-review-api.git"
   },
   "keywords": [
-    "lws",
+    
     "project",
     "api"
   ],
   "author": "Md. Mehedi Hasan Nabil",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MehediHasanNabil/lws-server-batch-2/issues"
+    "url": "https://github.com/MehediHasanNabil/product-review-api/issues"
   },
-  "homepage": "https://github.com/MehediHasanNabil/lws-server-batch-2#readme",
+  "homepage": "https://github.com/MehediHasanNabil/product-review-api#readme",
   "devDependencies": {
     "nodemon": "^2.0.21"
   },
