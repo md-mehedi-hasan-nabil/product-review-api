@@ -5,14 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "NODE_ENV=development nodemon index.js",
+    "dev": "NODE_ENV=development nodemon index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MehediHasanNabil/product-review-api.git"
   },
   "keywords": [
-    
     "project",
     "api"
   ],
@@ -30,7 +29,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "mongoose": "^7.0.0",
+    "mongoose": "^7.0.1",
     "morgan": "^1.10.0"
   }
 }
